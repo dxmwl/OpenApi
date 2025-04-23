@@ -5,8 +5,11 @@
 ![image](https://github.com/user-attachments/assets/5579609c-fc8e-4708-be0c-b673fb0c9335)
 
 # 接口列表
-获取AccessToken
-敏感词检测
+  ## 已开放接口
+    ### 用户相关
+      - 获取AccessToken
+    ### 文字相关
+      - 敏感词检测
 
 #### 作者的其他项目
 - [友你](https://sj.qq.com/appdetail/com.youni.mobile) 友你是一款征婚交友APP,在这里,你可以把你的真实信息登记下来,系统会根据您的信息,为您匹配最合适的TA,友你集交友、恋爱于一身，通过在线匹配，解决陌生人社交破冰难题，打造更真实的恋爱社区。
